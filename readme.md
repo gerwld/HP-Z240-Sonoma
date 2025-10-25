@@ -4,7 +4,7 @@
 > Working HP Z240 MT Hackintosh OpenCore Config for macOS Monterey (up to Ventura). Lower OS versions have not been tested but may work. Higher versions might also be compatible.
 Based on [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) and an old fork from [NOTNlCE-OpenCore](https://github.com/NOTNlCE/XPS-9560-OpenCore).
 
-<img width="1680" alt="res" src="https://github.com/user-attachments/assets/c5460956-bcfc-440f-8963-abec6af55353">
+<img width="1680" alt="res" src="https://github.com/user-attachments/assets/d5c1a29f-29c3-454c-bd64-0eb7a96b2a46">
 
 ## Core features:
 - Fixed common issues with EverythingGreen for Coffee Lake iGPUs
