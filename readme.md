@@ -1,8 +1,8 @@
 
 # HP-Z240-Sonoma
 
-> Working HP Z240 MT Hackintosh OpenCore Config for macOS Monterey (up to Sequoia). Lower OS versions have not been tested but may work. Higher versions might also be compatible.
-Based on [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) and an old fork from [NOTNlCE-OpenCore](https://github.com/NOTNlICE/XPS-9560-OpenCore).
+> Working HP Z240 MT Hackintosh OpenCore Config for macOS Sonoma (up to Sequoia). Lower OS versions have not been tested but may work. 
+Based on [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) and an old fork from [NOTNlCE-OpenCore](https://github.com/NOTNlICE/HP-Z240-OpenCore).
 
 <img width="1680" alt="res" src="https://github.com/user-attachments/assets/5efe70cb-44b2-45e7-a536-f0435a1d2fa6">
 
