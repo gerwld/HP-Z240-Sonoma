@@ -4,7 +4,7 @@
 > Working HP Z240 MT Hackintosh OpenCore Config for macOS Sonoma (up to Sequoia). Lower OS versions have not been tested but may work. 
 Based on [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) and an old fork from [NOTNlCE-OpenCore](https://github.com/NOTNlICE/HP-Z240-OpenCore).
 
-<img width="1680" alt="res" src="https://github.com/user-attachments/assets/5efe70cb-44b2-45e7-a536-f0435a1d2fa6">
+<img width="1680" alt="res" src="https://github.com/user-attachments/assets/10c4086e-d88e-42d7-a603-53bf7f771b73">
 
 ## Core features:
 - Fixed common issues with EverythingGreen for Coffee Lake iGPUs
@@ -21,7 +21,7 @@ Everything works, except:
 - Intel Xeon E3-1230 v5 3,4 GHz Quad-Core
 - Sapphire AMD RX570 8GB Mining Edition
 - M.2 1TB Samsung EVO SSD
-- Native A1398 Macbook Airport Card (PCIe dongle)
+- Fenvi FV-AC1200 (AC 7265, WiFi/BT4.0 - Opencore Root Patches)
 - be quiet! System Power 10 450W 80 Plus Bronze
 
 
